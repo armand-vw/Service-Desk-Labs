@@ -17,5 +17,6 @@ A practical portfolio of hands-on IT support labs and simulated service desk tic
 | INC0012862 | Hardware / Display / Graphics Drivers | Second monitor "No Signal" — graphics driver update | Windows 10/11 | Closed | [KB-1055](tickets/INC0012862.md) |
 | INC914231 | Hardware / Laptop Power / ACPI Sleep States | Laptop black screen — deep sleep hang, hard reset | Windows Laptop | Closed | [KB-1056](tickets/INC914231.md) |
 | INC0012860 | Identity & Access Management / AD | Department transfer — Engineering → IT Infrastructure group reassignment | Active Directory | Closed | [KB-1057](tickets/INC0012860.md) |
+| INC0012870 | Infrastructure / Print Server / Network Services | Site-wide printer outage — hung print server PRINT01 rebooted | Server Room B, Enterprise LAN | Closed | [KB-1058](tickets/INC0012870.md) |
 <!-- Add new ticket rows above this comment -->
 
