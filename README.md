@@ -14,5 +14,6 @@ A practical portfolio of hands-on IT support labs and simulated service desk tic
 | Ticket ID | Category | Issue Summary | Environment | Status | KB Link |
 |-----------|----------|---------------|-------------|--------|---------|
 | INC0012847 | Remote Access / Mapped Drives / VPN | Shared drive inaccessible — "Network path not found" | Windows 10/11, VPN (IKEv2/IPSec) | Closed | [KB-1054](tickets/INC0012847.md) |
+| INC0012862 | Hardware / Display / Graphics Drivers | Second monitor "No Signal" — graphics driver update | Windows 10/11 | Closed | [KB-1055](tickets/INC0012862.md) |
 <!-- Add new ticket rows above this comment -->
 
