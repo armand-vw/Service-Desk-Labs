@@ -19,5 +19,6 @@ A practical portfolio of hands-on IT support labs and simulated service desk tic
 | INC0012860 | Identity & Access Management / AD | Department transfer — Engineering → IT Infrastructure group reassignment | Active Directory | Closed | [KB-1057](tickets/INC0012860.md) |
 | INC0012870 | Infrastructure / Print Server / Network Services | Site-wide printer outage — hung print server PRINT01 rebooted | Server Room B, Enterprise LAN | Closed | [KB-1058](tickets/INC0012870.md) |
 | INC789918 | Identity & Access Management / MFA | Account lockout — desynchronized TOTP tokens via MFA reset | Directory Management, Authenticator App | Closed | [KB-1059](tickets/INC789918.md) |
+| INC628205 | MDM / Email Configuration / ActiveSync | Corporate email setup on new mobile device — manual ActiveSync config | iOS/Android, ActiveSync/Exchange | Closed | [KB-1060](tickets/INC628205.md) |
 <!-- Add new ticket rows above this comment -->
 
