@@ -22,5 +22,6 @@ A practical portfolio of hands-on IT support labs and simulated service desk tic
 | INC628205 | MDM / Email Configuration / ActiveSync | Corporate email setup on new mobile device — manual ActiveSync config | iOS/Android, ActiveSync/Exchange | Closed | [KB-1060](tickets/INC628205.md) |
 | INC938585 | Endpoint Security / Browser Malware & Adware | Rogue browser push notification pop-ups — permissions revoked & full scan clean | Windows 10/11, SD1020 | Closed | [KB-1061](tickets/INC938585.md) |
 | INC943775 | Network Storage / SMB Share Mapping / AD Permissions | Engineering share not mapped post-transfer — manual UNC mapping to FILESERV01 | Windows 10/11, SD1026, VPN, FILESERV01 | Closed | [KB-1062](tickets/INC943775.md) |
+| INC755877 | Enterprise Printing / TCP/IP Network Printer | Cafeteria-Printer-E offline — stale IP re-mapped to 10.0.2.54 | Windows 10/11, SD1027 | Closed | [KB-1063](tickets/INC755877.md) |
 <!-- Add new ticket rows above this comment -->
 
