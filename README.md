@@ -24,5 +24,6 @@ A practical portfolio of hands-on IT support labs and simulated service desk tic
 | INC943775 | Network Storage / SMB Share Mapping / AD Permissions | Engineering share not mapped post-transfer — manual UNC mapping to FILESERV01 | Windows 10/11, SD1026, VPN, FILESERV01 | Closed | [KB-1062](tickets/INC943775.md) |
 | INC755877 | Enterprise Printing / TCP/IP Network Printer | Cafeteria-Printer-E offline — stale IP re-mapped to 10.0.2.54 | Windows 10/11, SD1027 | Closed | [KB-1063](tickets/INC755877.md) |
 | INC401329 | Desktop Client Software / Email Application Repair | Mail client stuck on "Trying to connect…" — repaired via Programs and Features | Windows 10/11, SD1010 | Closed | [KB-1064](tickets/INC401329.md) |
+| INC654239 | Web Browser Security / Search Hijacking & Performance | Browser hijacked by SearchWave — rogue extension removed & settings reset | Windows 10/11, SD1022 | Closed | [KB-1065](tickets/INC654239.md) |
 <!-- Add new ticket rows above this comment -->
 
