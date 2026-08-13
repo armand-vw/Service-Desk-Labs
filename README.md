@@ -26,5 +26,6 @@ A practical portfolio of hands-on IT support labs and simulated service desk tic
 | INC401329 | Desktop Client Software / Email Application Repair | Mail client stuck on "Trying to connect…" — repaired via Programs and Features | Windows 10/11, SD1010 | Closed | [KB-1064](tickets/INC401329.md) |
 | INC654239 | Web Browser Security / Search Hijacking & Performance | Browser hijacked by SearchWave — rogue extension removed & settings reset | Windows 10/11, SD1022 | Closed | [KB-1065](tickets/INC654239.md) |
 | INC492525 | Desktop Client Software / Email Authentication Failure | Repeated auth prompts despite correct password — repaired via Programs and Features | Windows 10/11, SD1027 | Closed | [KB-1066](tickets/INC492525.md) |
+| INC838819 | Remote Access / SMB File Share Mapping & VPN | Offline mapped drive for remote user — VPN verified & share re-mapped | Windows 10/11, SD1025, VPN, FILESERV01 | Closed | [KB-1067](tickets/INC838819.md) |
 <!-- Add new ticket rows above this comment -->
 
