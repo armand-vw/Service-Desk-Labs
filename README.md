@@ -27,5 +27,6 @@ A practical portfolio of hands-on IT support labs and simulated service desk tic
 | INC654239 | Web Browser Security / Search Hijacking & Performance | Browser hijacked by SearchWave — rogue extension removed & settings reset | Windows 10/11, SD1022 | Closed | [KB-1065](tickets/INC654239.md) |
 | INC492525 | Desktop Client Software / Email Authentication Failure | Repeated auth prompts despite correct password — repaired via Programs and Features | Windows 10/11, SD1027 | Closed | [KB-1066](tickets/INC492525.md) |
 | INC838819 | Remote Access / SMB File Share Mapping & VPN | Offline mapped drive for remote user — VPN verified & share re-mapped | Windows 10/11, SD1025, VPN, FILESERV01 | Closed | [KB-1067](tickets/INC838819.md) |
+| INC220144 | Hardware / Power & Sleep State Failure | Laptop stuck in sleep state (blinking power LED) — hard reset | Windows Laptop | Closed | [KB-1068](tickets/INC220144.md) |
 <!-- Add new ticket rows above this comment -->
 
