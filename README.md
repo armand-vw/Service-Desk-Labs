@@ -30,5 +30,6 @@ A practical portfolio of hands-on IT support labs and simulated service desk tic
 | INC220144 | Hardware / Power & Sleep State Failure | Laptop stuck in sleep state (blinking power LED) — hard reset | Windows Laptop | Closed | [KB-1068](tickets/INC220144.md) |
 | INC648448 | Application Support / Browser Cache & Cookie Corruption | Web pages timed out (ERR_CONNECTION_TIMED_OUT) — cache & cookies cleared | Windows 10/11, SD1019 (Remote / WFH) | Closed | [KB-1069](tickets/INC648448.md) |
 | INC605051 | Mobile Device Management / ActiveSync Email & Client State | Mobile mail "Cannot connect to server" — app reinstall restored sync | Mobile Device (iOS/Android), ActiveSync/Exchange | Closed | [KB-1070](tickets/INC605051.md) |
+| INC734073 | Identity & Access Management / AD Cached Credentials & VPN | New password rejected at Windows sign-in — VPN tunnel synced cached credentials | Windows 10/11, SD1025 (Remote / WFH), VPN, AD | Closed | [KB-1071](tickets/INC734073.md) |
 <!-- Add new ticket rows above this comment -->
 
