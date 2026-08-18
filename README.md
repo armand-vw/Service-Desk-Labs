@@ -32,5 +32,6 @@ A practical portfolio of hands-on IT support labs and simulated service desk tic
 | INC605051 | Mobile Device Management / ActiveSync Email & Client State | Mobile mail "Cannot connect to server" — app reinstall restored sync | Mobile Device (iOS/Android), ActiveSync/Exchange | Closed | [KB-1070](tickets/INC605051.md) |
 | INC734073 | Identity & Access Management / AD Cached Credentials & VPN | New password rejected at Windows sign-in — VPN tunnel synced cached credentials | Windows 10/11, SD1025 (Remote / WFH), VPN, AD | Closed | [KB-1071](tickets/INC734073.md) |
 | INC389824 | Identity & Access Management / AD Group Provisioning | Managerial access missing post-promotion — added to Management security group | Active Directory / Directory Management | Closed | [KB-1072](tickets/INC389824.md) |
+| INC881691 | Hardware Failure / Computer Deployment & Logistics | Dead WFH laptop — replacement provisioned via Cloud Provisioning & shipped | Windows 10/11, Remote (Tampa, FL), Cloud Provisioning / Ship Manager | Closed | [KB-1073](tickets/INC881691.md) |
 <!-- Add new ticket rows above this comment -->
 
