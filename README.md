@@ -37,5 +37,6 @@ A practical portfolio of hands-on IT support labs and simulated service desk tic
 | INC295378 | Endpoint Security / BitLocker & Drive Encryption Key Recovery | BitLocker recovery lockout — MFA-verified key retrieval unlocked SD1025 | Windows 10/11, SD1025 (Remote / WFH), BitLocker | Closed | [KB-1075](tickets/INC295378.md) |
 | INC897559 | Peripheral Failure / Hardware Logistics & Cable Dispatch | External monitors undetected — DisplayPort cable replaced via Ship Manager | Windows 10/11, Docking Station, DisplayPort, Ship Manager | Closed | [KB-1076](tickets/INC897559.md) |
 | INC793328 | Malware / Full-Screen Scareware Tech Support Scam | Screen locked by full-screen scareware — browser process terminated & full scan clean | Windows 10/11, SD1007, Remote Desktop | Closed | [KB-1077](tickets/INC793328.md) |
+| INC354817 | Printing / Stale Network Printer IP Mapping | Floor2-Printer-B offline — stale IP re-mapped to 10.0.2.51 | Windows 10/11, SD1020, Floor2-Printer-B | Closed | [KB-1078](tickets/INC354817.md) |
 <!-- Add new ticket rows above this comment -->
 
