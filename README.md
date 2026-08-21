@@ -39,5 +39,6 @@ A practical portfolio of hands-on IT support labs and simulated service desk tic
 | INC793328 | Malware / Full-Screen Scareware Tech Support Scam | Screen locked by full-screen scareware — browser process terminated & full scan clean | Windows 10/11, SD1007, Remote Desktop | Closed | [KB-1077](tickets/INC793328.md) |
 | INC354817 | Printing / Stale Network Printer IP Mapping | Floor2-Printer-B offline — stale IP re-mapped to 10.0.2.51 | Windows 10/11, SD1020, Floor2-Printer-B | Closed | [KB-1078](tickets/INC354817.md) |
 | INC216532 | Display / Graphics Driver Degradation | Display lag & stuttering — graphics driver updated via System Update | Windows 10/11, SD1018 | Closed | [KB-1079](tickets/INC216532.md) |
+| INC924831 | Data Loss / Cloud Drive Version History Recovery | Deleted client proposals folder — restored via Cloud Drive Version History | Windows 10/11, SD1025 (Remote / WFH), Cloud Drive | Closed | [KB-1080](tickets/INC924831.md) |
 <!-- Add new ticket rows above this comment -->
 
