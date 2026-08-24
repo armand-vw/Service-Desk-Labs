@@ -42,5 +42,6 @@ A practical portfolio of hands-on IT support labs and simulated service desk tic
 | INC924831 | Data Loss / Cloud Drive Version History Recovery | Deleted client proposals folder — restored via Cloud Drive Version History | Windows 10/11, SD1025 (Remote / WFH), Cloud Drive | Closed | [KB-1080](tickets/INC924831.md) |
 | INC996796 | Account Compromise / Unauthorized Access / Security Escalation | Unauthorized login — account hardened & escalated to SOC | Windows 10/11, SD1007, Remote Support | Remediated & Escalated | [KB-1081](tickets/INC996796.md) |
 | INC339064 | Network Infrastructure / Core Router Performance Degradation | Office-wide slowdown — Core Router soft reset restored throughput | Server Room A, Core Router (10.0.0.1), Enterprise LAN | Closed | [KB-1082](tickets/INC339064.md) |
+| INC64570 | Identity & Access Management / Mobile Email Authentication Failure | Mobile mail "Cannot connect to server" — expired password reset | Mobile Device (iOS/Android), ActiveSync/Exchange, Directory Management | Closed | [KB-1083](tickets/INC64570.md) |
 <!-- Add new ticket rows above this comment -->
 
