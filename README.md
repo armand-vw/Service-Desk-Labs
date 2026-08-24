@@ -44,5 +44,6 @@ A practical portfolio of hands-on IT support labs and simulated service desk tic
 | INC339064 | Network Infrastructure / Core Router Performance Degradation | Office-wide slowdown — Core Router soft reset restored throughput | Server Room A, Core Router (10.0.0.1), Enterprise LAN | Closed | [KB-1082](tickets/INC339064.md) |
 | INC64570 | Identity & Access Management / Mobile Email Authentication Failure | Mobile mail "Cannot connect to server" — expired password reset | Mobile Device (iOS/Android), ActiveSync/Exchange, Directory Management | Closed | [KB-1083](tickets/INC64570.md) |
 | INC619386 | Hardware & Display / Display Artifacts & Driver Corruption | Screen flickering & artifacts — graphics driver updated via System Update | Windows 10/11, SD1007, System Update | Closed | [KB-1084](tickets/INC619386.md) |
+| INC781923 | Identity & Access Management / User Offboarding & Deprovisioning | Departing employee deprovisioned — account disabled, licenses revoked, groups removed | Active Directory / Directory Management, Asset Management | Closed | [KB-1085](tickets/INC781923.md) |
 <!-- Add new ticket rows above this comment -->
 
