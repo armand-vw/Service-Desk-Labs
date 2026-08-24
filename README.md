@@ -41,5 +41,6 @@ A practical portfolio of hands-on IT support labs and simulated service desk tic
 | INC216532 | Display / Graphics Driver Degradation | Display lag & stuttering — graphics driver updated via System Update | Windows 10/11, SD1018 | Closed | [KB-1079](tickets/INC216532.md) |
 | INC924831 | Data Loss / Cloud Drive Version History Recovery | Deleted client proposals folder — restored via Cloud Drive Version History | Windows 10/11, SD1025 (Remote / WFH), Cloud Drive | Closed | [KB-1080](tickets/INC924831.md) |
 | INC996796 | Account Compromise / Unauthorized Access / Security Escalation | Unauthorized login — account hardened & escalated to SOC | Windows 10/11, SD1007, Remote Support | Remediated & Escalated | [KB-1081](tickets/INC996796.md) |
+| INC339064 | Network Infrastructure / Core Router Performance Degradation | Office-wide slowdown — Core Router soft reset restored throughput | Server Room A, Core Router (10.0.0.1), Enterprise LAN | Closed | [KB-1082](tickets/INC339064.md) |
 <!-- Add new ticket rows above this comment -->
 
