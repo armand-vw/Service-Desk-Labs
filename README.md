@@ -49,5 +49,6 @@ A practical portfolio of hands-on IT support labs and simulated service desk tic
 | INC832560 | Identity & Access Management / Credential Recovery | Forgotten password — temporary credentials issued & reset | Active Directory / Directory Management | Closed | [KB-1087](tickets/INC832560.md) |
 | INC882665 | Identity & Access Management / Multi-Factor Authentication (MFA) | MFA code delivery failure — MFA reset & re-enrollment | Active Directory / Directory Management | Closed | [KB-1088](tickets/INC882665.md) |
 | INC974980 | Infrastructure / Print Services & Server Administration | Floor 2 print outage — PRINT01 degraded, reboot restored service | Server Room B, PRINT01, Enterprise LAN | Closed | [KB-1089](tickets/INC974980.md) |
+| INC755672 | Infrastructure / Domain Services & Active Directory | "No logon servers available" — DC01 degraded, reboot restored AD auth | Server Room A, DC01, Enterprise LAN | Closed | [KB-1090](tickets/INC755672.md) |
 <!-- Add new ticket rows above this comment -->
 
