@@ -47,5 +47,6 @@ A practical portfolio of hands-on IT support labs and simulated service desk tic
 | INC781923 | Identity & Access Management / User Offboarding & Deprovisioning | Departing employee deprovisioned — account disabled, licenses revoked, groups removed | Active Directory / Directory Management, Asset Management | Closed | [KB-1085](tickets/INC781923.md) |
 | INC748409 | Endpoint Security / Phishing & Rogue Software Removal | Phishing link — credentials reset & rogue app PC Speed Manager removed | Windows 10/11, SD1024, Remote Desktop | Closed | [KB-1086](tickets/INC748409.md) |
 | INC832560 | Identity & Access Management / Credential Recovery | Forgotten password — temporary credentials issued & reset | Active Directory / Directory Management | Closed | [KB-1087](tickets/INC832560.md) |
+| INC882665 | Identity & Access Management / Multi-Factor Authentication (MFA) | MFA code delivery failure — MFA reset & re-enrollment | Active Directory / Directory Management | Closed | [KB-1088](tickets/INC882665.md) |
 <!-- Add new ticket rows above this comment -->
 
